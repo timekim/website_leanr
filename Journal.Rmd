@@ -1,7 +1,7 @@
 ---
 title: "Journal"
 output:
-  html_document:
+  word_document:
     toc: true
     toc_float: true
     collapsed: false
